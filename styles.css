@@ -1,3 +1,38 @@
+table, th, td {
+    border: 1px solid;
+  }
+#ihatecsssomuchigetititsverymessy {
+    float: right;
+    border: 1px solid black;
+    padding: 5px;
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+}
+#social {
+    border: 1px solid black;
+    width: 500px;
+    height: 250px;
+    padding: 10px;
+}
+#social img {
+    border: 1px solid black;
+    float: left;
+}
+#social h2 {
+    text-align: center;
+}
+#social p {
+    text-align: center;
+}
+#social a {
+    text-align: center;
+    color: black;
+}
+
+
+
+
 #center {
     text-align: center;
 }
@@ -32,6 +67,9 @@
 #fright {
     float: right;
     position: relative;
+}
+#fright2 {
+    float: right;
 }
 #textright {
     text-align: center;
